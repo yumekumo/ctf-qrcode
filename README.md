@@ -1,2 +1,2 @@
 # CTF用のページです。
-Pass{WHere_Is_FlaG?}
+pass{WHere_Is_FlaG?}
