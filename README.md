@@ -1,2 +1,2 @@
 # CTF Kanagawa 2021用のページです。
-pass{WHere_Is_FlaG?}
+pw{WHere_Is_FlaG?}
